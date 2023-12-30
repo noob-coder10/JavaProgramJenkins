@@ -1,0 +1,1 @@
+console.log("This is node file which will be executed through Jenkins!")
